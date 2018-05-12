@@ -1,12 +1,12 @@
 def my_hash
-myHas = {dog: "rocco"}
+myHas = {dog => "rocco"}
 
   
 end
 
 
 def shipping_manifest
-the_manifest = {"whale bone corset"  5, "porcelain vase": 2, "oil paintings": 3}
+the_manifest = {"whale bone corset" => 5, "porcelain vase" => 2, "oil paintings" => 3}
 
 end
 
